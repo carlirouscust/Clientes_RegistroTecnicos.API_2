@@ -1,0 +1,6 @@
+@RegistroTecnicos_Clientes.Api_HostAddress = http://localhost:5282
+
+GET {{RegistroTecnicos_Clientes.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
