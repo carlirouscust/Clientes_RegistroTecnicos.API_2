@@ -26,7 +26,7 @@ namespace RegistroTecnicos_Clientes.Api
                 app.UseSwaggerUI();
             }
 
-            app.UseHttpsRedirection();
+        app.UseHttpsRedirection();
 
             app.UseAuthorization();
 
